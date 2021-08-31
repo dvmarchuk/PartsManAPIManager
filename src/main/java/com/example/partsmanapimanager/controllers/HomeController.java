@@ -1,11 +1,12 @@
 package com.example.partsmanapimanager.controllers;
 
+import com.example.partsmanapimanager.DAO.UserDAO;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@AllArgsConstructor
+@AllArgsConstructor //remove the need for constructors
 @RestController
 public class HomeController {
 
@@ -16,6 +17,6 @@ public class HomeController {
 
     @PostMapping("/find")
     public String find(){
-        return "find post";
+        return "find part";
     }
 }
