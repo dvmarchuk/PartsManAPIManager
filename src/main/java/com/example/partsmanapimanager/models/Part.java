@@ -7,18 +7,18 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-
 @AllArgsConstructor
 @Builder
 @ToString
 @Data
 @NoArgsConstructor
 @Entity
-public class User {
-        @Id
-        @GeneratedValue(strategy = GenerationType.IDENTITY)
-        private int id;
-        private String userName;
-        //private String partURL;
-        //private String orderedItems;
+public class Part {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
+    private String imgLink;
+    private String name;
+    private String partOptions;
 }

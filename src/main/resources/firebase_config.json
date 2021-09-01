@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "partstech-73020",
+  "private_key_id": "13fb91b19c62bf03b557d9bb44c6ebf9dca809a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjDcu9VXBQYPOq\nbv4Nf1Cg32pm+8LKk4LUu0Xrlgh9Qv4j3LacOWyxtXxFGL5DKJtdu4hPzHahediH\nz94Vf6pEvAeNRdr7jhPPw0d67lP/Cm6aiGSVnTKf7x5NRrmbhksEo8AWfoKYpLS+\nARHpQK8CSgMu/6WhwafG4R0vvYBwghVuhC/r+9JDPG5/2eVO+yODT4Xt0/p56blB\nHOh0z56Z+k+W9Xx7ngbRMRSZIEe0mmDI1zy88jPkLfVmw5xeY4ywDUP2Ior1Uq+B\nIF6fc1qrsbuj8yau0u8EdJZ7rU3Qbl5YdELVKVferfgsVHk7ASCW0AZ8G8d/tpIo\nL+3XQr+RAgMBAAECggEABTwGj/nhHL95YGhm8QLRkTyNjf1OlqdvfN9UjQ3YZhcO\nEWjUQZspVWInZBDO3i6R9aDKgo9POVCv+2+C/cCHCY+vaWELo5A/LBK6OyTRXv++\n0b4HsUg7jWgFL8NnEX+umFlJFnUcwa7l8NntcTDG/YU9PsIXwePgPDxSriCWBzvk\nquhQzxCPE25Akq30mdhEVWt37yuabk2pKW5uHDaduDUEc6exf53zHmKj997OJSRL\nlLeaJp5pYSc87waOYi37EYz6OMzS41jGVSXzzVIr1gHay2fXTQBg57s4LX3rlzQd\nxmlSs11/QY/HXMKMXWczhWk3wZ/yXMRxWm8a/awT7QKBgQDhd6kZF9wXqQje3vw2\n+rrwP4rTQpsVNdKDZpgbRgdODXpDsZORKodwgU8yDWMZUt5XsfuhoG5R26up9fOW\nLT1oZkfsHrBsZ6/kiQ0daxVAVk4LtvD/hu9KJy7BjEvPYHobD00KnLq5F8QZKT2u\nLJKz3edgIt85neH/RVslQ6UElQKBgQC5Im28Pm+NgG/PuGg6TZ15minUd96g9Irz\nUz4NCTejQrREebsMwCK8hMfag4hzxmZWSte6b9OSbYHt4QAzCslKqd7XjzRDivg4\nIjEXk+iAn2MKxv990dnxAEKg5vkf9a7t6k209TYjBgUBILp8QW/Ng3P4h9rhAKtC\ndj0fCRZ0DQKBgAg+M7RzJtzGlUhwpo/sAsGd0RmAKeNQoG2lZpI4sTOtUnb/GwIH\nqAP49khCLQlT+kUCgMyb7OyZN2FzWIB5DvGuK5r6VEDiWY/lYtFchN5hSWEsQwtU\nh5MSc6cn1e2y/UPX/10P9dOmhsjUtSiVAJgK2Nau77JPj1+hzX9DRdkxAoGBAJzl\nnaQ8MaP1Jk0fFk3a+0tUKIEk+Wrk9GFUubCokBtva4DgvXIH3yhvS0RX1qtvh8k3\n8m3RWbet0MA9wEKBsKfzIKUEeyGGw+gmqf42XoOrEG/QyDPkRdSmCNF+DcFVIGQG\n/sYOTkwOTO1wxDqL5mmALyeAUzH+tCVGOXR06i99AoGAZdNkbXMFuiP2V92+RsUC\n5YkSPcmcX7dWNWEPRn7/GB2D7cLEXSgry4/nloxY2B1M70pJ0Z4TLyT+RIkoq0II\nt5COHWm2VeKeA5iNP8lnjAO/DB/ASVspWABcVGGX9/+Wi67lNJ7Zz37/b9rQulaW\n1EqjESvn4hYcYVV7Hf2JKPg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4o1dw@partstech-73020.iam.gserviceaccount.com",
+  "client_id": "113060648182860738066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4o1dw%40partstech-73020.iam.gserviceaccount.com"
+}
