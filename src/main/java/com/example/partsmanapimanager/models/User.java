@@ -19,6 +19,5 @@ public class User {
         @GeneratedValue(strategy = GenerationType.IDENTITY)
         private int id;
         private String userName;
-        //private String partURL;
-        //private String orderedItems;
+
 }
